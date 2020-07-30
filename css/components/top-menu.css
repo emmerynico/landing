@@ -1,0 +1,36 @@
+
+.top-menu {
+  display: flex;
+  justify-content: center;
+  align-content: flex-start;
+}
+
+h1,h2 {
+  color: lightgray;
+  margin: 0;
+  padding: 5px 35px;
+}
+
+h2 {
+  font-size: 16px;
+  margin-top: px;
+
+}
+h3 {
+  text-align:center;
+}
+h1 {
+  font-size: 50px;
+  color: #EFC88B;
+}
+p {
+  color:black;
+  text-align:center;
+  background-size: cover;
+  background-position: center;
+  line-height: 1.7em;
+}
+
+.banner p {
+  color: white;
+}
